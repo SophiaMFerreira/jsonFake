@@ -14,10 +14,10 @@
     {"id":2,"razaoSocial":"TechMind Eventos LTDA","nomeFantasia":"TechMind","cnpj":"98.765.432/0001-55","celular":"(11) 98888-9999","email":"contato@techmind.com","siteEmpresa":"www.techmind.com","nomeResponsavelLegal":"Carlos Menezes","cpfResponsavelLegal":"654.321.987-00","inscricaoEstadualMunicipal":"987654321","cep":"01000-000","logradouro":"Av. Paulista","numero":"1500","complemento":"Conjunto 12","bairro":"Bela Vista","cidade":"São Paulo","estado":"São Paulo","organizador":true}
   ],
   "ingresso":[
-    {"id":1,"codigoIngresso":"ING-20251001-001","dataCompra":"01/01/2025","horaCompra":"10:00","valor":"120,00", "tipo":"inteira","idEvento":"2","idParticipanteCPF":"3", "idParticipanteCNPJ": "NULL", "cancelado":false, "pago":true},
-    {"id":2,"codigoIngresso":"ING-20251001-002","dataCompra":"01/02/2025","horaCompra":"11:00","valor":"50,00", "tipo":"inteira","idEvento":"1","idParticipanteCPF":"1", "idParticipanteCNPJ": "NULL","cancelado":false, "pago":true},
-    {"id":3,"codigoIngresso":"ING-20251001-003","dataCompra":"03/01/2025","horaCompra":"10:04","valor":"80,00","tipo":"inteira","idEvento":"3","idParticipanteCPF":"1", "idParticipanteCNPJ":"NULL","cancelado":false, "pago":true},
-    {"id":4,"codigoIngresso":"ING-20251001-004","dataCompra":"10/07/2025","horaCompra":"13:09","valor":"20,00","tipo":"inteira","idEvento":"4","idParticipanteCPF":"2", "idParticipanteCNPJ": "NULL","cancelado":false, "pago":true},
-    {"id":5,"codigoIngresso":"ING-20251001-005","dataCompra":"21/02/2025","horaCompra":"11:50","valor":"60,00","tipo":"meia", "idEvento":"2","idParticipanteCPF": "NULL", "idParticipanteCNPJ":"3" ,"cancelado":false, "pago": false} 
+    {"id":1,"codigoIngresso":"ING-20251001-001","dataCompra":"01/01/2025","horaCompra":"10:00","valor":120.00, "tipo":"inteira","idEvento":2,"idParticipanteCPF":3, "idParticipanteCNPJ": null, "cancelado":false, "pago":true},
+    {"id":2,"codigoIngresso":"ING-20251001-002","dataCompra":"01/02/2025","horaCompra":"11:00","valor":50.00, "tipo":"inteira","idEvento":1,"idParticipanteCPF":1, "idParticipanteCNPJ": null,"cancelado":false, "pago":true},
+    {"id":3,"codigoIngresso":"ING-20251001-003","dataCompra":"03/01/2025","horaCompra":"10:04","valor":80.00,"tipo":"inteira","idEvento":3,"idParticipanteCPF":1, "idParticipanteCNPJ": null,"cancelado":false, "pago":true},
+    {"id":4,"codigoIngresso":"ING-20251001-004","dataCompra":"10/07/2025","horaCompra":"13:09","valor":20.00,"tipo":"inteira","idEvento":4,"idParticipanteCPF":2, "idParticipanteCNPJ": null,"cancelado":false, "pago":true},
+    {"id":5,"codigoIngresso":"ING-20251001-005","dataCompra":"21/02/2025","horaCompra":"11:50","valor":60.00,"tipo":"meia", "idEvento":2,"idParticipanteCPF": null, "idParticipanteCNPJ": null,"cancelado":false, "pago": false} 
   ]
 }
